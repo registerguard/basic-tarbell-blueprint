@@ -1,4 +1,4 @@
 from flask import Blueprint
 
-NAME = "TEST blueprint - robbyd"
+NAME = "RG Basic Blueprint"
 blueprint = Blueprint("base", __name__)
